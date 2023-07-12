@@ -19,7 +19,7 @@ conversion_rate_2 = ['sign_up_2', 'user_count_2']
 conversion_rates = [conversion_rate_1, conversion_rate_2]
 
 # Set up Connection
-query = ab.QueryConnection(test_number, profile_name, s3_staging_dir, region_name)
+query = ab.QueryConnection(test_number, profile_name, s3_staging_dir, region_name, conversion_rates)
 
 # Runs query and outputs to csv. Only need to run once per session before commenting out
 query.run_query()
