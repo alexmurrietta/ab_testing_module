@@ -1,4 +1,5 @@
 # A/B Testing Automation
+NOTE***: Certain information has been redacted/changed to protect proprietary information
 Object-oriented Python program I made to automate the A/B testing process on the Mint website at Intuit.
 
 ## File Guide
