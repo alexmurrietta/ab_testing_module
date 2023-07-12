@@ -1,5 +1,5 @@
 # A/B Testing Automation
-Object-oriented Python program which I created to automate the A/B testing process on the Mint website at Intuit.
+Object-oriented Python program I made to automate the A/B testing process on the Mint website at Intuit.
 
 ## File Guide
 
